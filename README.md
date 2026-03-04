@@ -8,3 +8,6 @@ This project implements an integrated AI governance playbook based on:
 
 The platform enables organizations to assess AI system risks,
 monitor governance KPIs, and generate governance reports.
+
+
+https://ai-governance-intelligence-platform.streamlit.app/
